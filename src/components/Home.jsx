@@ -44,7 +44,7 @@ const Home = () => {
         color={"whiteAlpha.700"}
         mt={"8"}
       >
-        You're Own Cryptocurrency Encyclopedia
+        Your Own Cryptocurrency Encyclopedia
       </Text>
     </Box>
   );
